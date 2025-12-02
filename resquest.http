@@ -1,0 +1,5 @@
+# GET https://verbose-space-bassoon-9xg7wx4w4xf956j-8000.app.github.dev/
+# Accept: application/json
+
+GET https://verbose-space-bassoon-9xg7wx4w4xf956j-8000.app.github.dev/converter/EUR?to_currencies=BRL&price=10
+Accept: application/json
